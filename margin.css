@@ -1,0 +1,36 @@
+.one{
+	height: 100px;
+	font-size: 0px;
+	display: inline-block;
+}
+.a{
+	background-color: blue
+}
+.b{
+	background-color: red;
+}
+.two{
+	width: 50%;
+}
+#main{
+	font-size: 0px;
+	width: 400px;
+	margin: auto;
+}
+.three{
+	width: 33%
+}
+.c{
+	background-color: black;
+}
+.d{
+	background-color: yellow;
+}
+.e{
+	background-color: green;
+}
+
+
+
+
+
